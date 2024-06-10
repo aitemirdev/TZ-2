@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-gilroy: Gilroy;
+    --font-gilroy-semibold: "Gilroy SemiBold";
+    --font-manrope: Manrope;
+
+    /* font sizes */
+    --font-size-smi: 13px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-5xl: 24px;
+    --font-size-13xl: 32px;
+    --font-size-mid: 17px;
+    --font-size-58xl: 77px;
+    --font-size-27xl: 46px;
+
+    /* Colors */
+    --color-gray-100: #8e8e8e;
+    --color-gray-200: #22253b;
+    --color-deepskyblue-100: #38bff2;
+    --color-white: #fff;
+    --color-tomato-100: #f15525;
+    --color-aliceblue: #eaf2f5;
+    --color-whitesmoke: #f3f3f3;
+    --color-darkslategray-100: #1a2e35;
+
+    /* Border radiuses */
+    --br-63xl: 82px;
+    --br-21xl: 40px;
+    --br-3xs: 10px;
+    --br-11xl: 30px;
+    --br-12xs: 1px;
+    --br-25xl: 44px;
+}
